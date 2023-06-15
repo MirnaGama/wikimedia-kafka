@@ -1,4 +1,4 @@
-package mirna.project.wikimediakafkaproducer.constants;
+package mirna.project.wikimediakafka.constants;
 
 public class URLConstants {
 

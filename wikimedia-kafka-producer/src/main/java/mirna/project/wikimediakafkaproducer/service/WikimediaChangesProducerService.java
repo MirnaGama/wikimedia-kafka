@@ -11,8 +11,8 @@ import org.springframework.stereotype.Service;
 import com.launchdarkly.eventsource.EventHandler;
 import com.launchdarkly.eventsource.EventSource;
 
-import mirna.project.wikimediakafkaproducer.constants.TopicNameConstants;
-import mirna.project.wikimediakafkaproducer.constants.URLConstants;
+import mirna.project.wikimediakafka.constants.TopicNameConstants;
+import mirna.project.wikimediakafka.constants.URLConstants;
 import mirna.project.wikimediakafkaproducer.handler.WikimediaChangesHandler;
 
 @Service

@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.kafka.config.TopicBuilder;
 
-import mirna.project.wikimediakafkaproducer.constants.TopicNameConstants;
+import mirna.project.wikimediakafka.constants.TopicNameConstants;
 
 @Configuration
 public class KafkaTopicConfiguration {
