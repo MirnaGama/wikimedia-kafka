@@ -1,0 +1,12 @@
+package mirna.project.wikimediakafkaconsumer;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WikimediaKafkaConsumerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(WikimediaKafkaConsumerApplication.class, args);
+	}
+}

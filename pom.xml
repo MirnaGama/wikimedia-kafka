@@ -63,5 +63,6 @@
 
 	<modules>
 		<module>wikimedia-kafka-producer</module>
+		<module>wikimedia-kafka-consumer</module>
 	</modules>
 </project>
